@@ -20,50 +20,7 @@ voor het menselijk brein en de geestelijke gezondheid**
 *Focus op aandacht, dopamine, cognitieve inspanning  
 en de impact op jongeren*
 
----
-
-## Introductie
-
-### Wie is Erik Scherder?
-
-- Nederlandse neuropsycholoog  
-- Hoogleraar aan de Vrije Universiteit Amsterdam  
-- Gespecialiseerd in hersengezondheid, cognitie en veroudering  
-- Bekend om zijn maatschappelijke waarschuwingen over technologie  
-- Kritisch over passieve digitale consumptie en cognitieve uitbesteding  
-
----
-
-### Erik Scherder: *De gevaren van AI voor je brein*
-
-**Hoofdfocus van de video:**
-- Technologie en AI als gemak → minder cognitieve inspanning  
-- Dopamine-beloning en gewoontevorming  
-- Afnemende aandacht en mentale verarming 
-
----
-
----
-title: "Erik Scherder over AI, het Brein en Geestelijke Gezondheid"
-subtitle: "De risico’s van kunstmatige intelligentie voor aandacht, cognitie en jongeren"
-author: "Quint Kuijper en Quincy Blankenagel"
-format:
-  revealjs:
-    theme: solarized
-    slide-number: true
-    chalkboard: true
-    incremental: true
-    transition: fade
-    toc: false
----
-
-## Titel
-
-**Erik Scherder over de gevaren van AI  
-voor het menselijk brein en de geestelijke gezondheid**
-
-*Focus op aandacht, dopamine, cognitieve inspanning  
-en de impact op jongeren*
+![](foto3.png){fig-align="center"}
 
 ---
 
@@ -85,6 +42,8 @@ en de impact op jongeren*
 - Technologie en AI als gemak → minder cognitieve inspanning  
 - Dopamine-beloning en gewoontevorming  
 - Afnemende aandacht en mentale verarming 
+
+![](ai-foto1.jfif){width=70% fig-align="center" .nostretch}
 
 ---
 
@@ -95,6 +54,7 @@ en de impact op jongeren*
 [▶ Bekijk de video op YouTube  
 *Erik Scherder – De gevaren van AI voor je brein*](https://www.youtube.com/watch?v=DgQm9djan2g){target="_blank"}
 
+![](youtube_foto1.png)
 ---
 
 Video-analyse: Kernmomenten (1)
@@ -241,6 +201,6 @@ Slotboodschap
 gebruik je het niet, dan verzwakt het.”
 — Erik Scherder
 
-
+![](hersenen_spier.jfif){fig-align="center"}
 
 
